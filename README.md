@@ -43,7 +43,7 @@ go version
 bash
 Copy
 cd ~
-git clone https://github.com/KULLANICI_ADINIZ/telegram-anythingllm-bot.git
+git clone https://github.com/0xmtnslk/telegram-anythingllm-bot.git
 cd telegram-anythingllm-bot
 3. Bağımlılıkları Yükleyin
 bash
